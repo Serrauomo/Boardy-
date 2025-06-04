@@ -10,3 +10,9 @@ Boardy is an App for iPad to help small companies during the process of brainsto
 # SCREENSHOTS
 
 ![boardy_app_recap](https://github.com/user-attachments/assets/cf0154e8-54b8-435d-a6fa-60ccc94914fe)
+
+
+## INSTALLATION
+1. Clone this Repository
+2. Open the project in Xcode
+3. Run the app on a simulator or connected device
